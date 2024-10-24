@@ -1,0 +1,90 @@
+body {
+    background-image: url(assets/IMG/background.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+
+.voilee {
+    height: 500px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.main {
+    border: 5px solid white;
+    border-radius: 20px;
+    position: relative;
+    left: 500px;
+    height: 500px;
+    bottom: 415px;
+    width: 50%;
+    background: white;
+}
+
+h2 {
+    text-align: center;
+    color:burlywood;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+
+#MAIL {
+    border: 2px solid burlywood;
+    border-radius: 20px;
+    width: 75%;
+    height: 40px;
+    position: relative;
+    left: 65px;
+    top: 50px;
+}
+
+#PASSWORD {
+    border: 2px solid burlywood;
+    border-radius: 20px;
+    width: 75%;
+    height: 40px;
+    position: relative;
+    left: 65px;
+    top: 70px;
+}
+
+#CONNEXION {
+    border: 2px solid burlywood;
+    border-radius: 20px;
+    width: 75%;
+    height: 40px;
+    position: relative;
+    left: 65px;
+    top: 90px;
+    cursor: pointer;
+    background: burlywood;
+}
+
+#FORGET {
+    width: 75%;
+    position: relative;
+    top: 100px;
+    left: 225px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#SIGN {
+    border: 2px solid burlywood;
+    border-radius: 20px;
+    width: 75%;
+    height: 40px;
+    position: relative;
+    left: 65px;
+    top: 130px;
+    cursor: pointer;
+    background: burlywood;
+}
